@@ -15,7 +15,7 @@ class AT_env_korero(Env):
         self.time = 0  # initialize time
         self.max_time = 1000  # time to run simulation
         self.threshold_burden = 100  # threshold to stop simulation
-
+        #fd
         # setup initial variables
         self.initial_wt = 30
         self.initial_mut = 10
